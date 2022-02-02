@@ -1,5 +1,5 @@
 # C++ terminology(English & Chinese)
-https://www.cnblogs.com/mathzzz/archive/2012/08/11/2633212.html
+https://www.cnblogs.com/mathzzz/archive/2012/08/11/2633212.html  
 abstract                                抽象的  
 abstraction                             抽象体  
 access                                  存取，取用  
